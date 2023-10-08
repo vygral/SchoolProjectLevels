@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Levels/StartingLevel.umap",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Blueprints/BP_LevelOpener.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Materials/M_BaseMaterial.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Levels/Level1.umap",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Materials/M_BasicMaterial_Red.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Blueprints/BP_QuitGame.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Blueprints/BP_SwingingMace.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Levels/Level2.umap",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Models/hamer.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Models/hamer2.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Materials/Material_003.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Textures/Hamer_albedo.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Textures/Hamer_Roughness.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Models/hamer1.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Blueprints/BP_Scoring.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Blueprints/BP_Point.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Blueprints/BP_PointBar.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Models/hamer3.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Textures/Hamer_Normal.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Models/coin.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Materials/M_Gold.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Blueprints/BP_ScoreLevelOpener.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Materials/M_Yellow.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Epic games/unreal engine projekts/SchoolProjectLevels/Content/MyContent/Blueprints/LevelOpener.uasset"
+			]
+		}
+	]
+}
