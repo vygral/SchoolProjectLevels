@@ -3288,31 +3288,3 @@ Script Stack (0 frames) :
 [2023.10.15-10.10.01:985][971]LogOutputDevice: Error: [Callstack] 0x00007fff0b1d257d KERNEL32.DLL!UnknownFunction []
 [2023.10.15-10.10.01:985][971]LogOutputDevice: Error: [Callstack] 0x00007fff0bc0aa78 ntdll.dll!UnknownFunction []
 [2023.10.15-10.10.01:985][971]LogOutputDevice: Error: 
-[2023.10.15-10.10.02:016][971]LogStats:                SubmitErrorReport -  0.000 s
-[2023.10.15-10.10.11:484][971]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 9 Seconds] waiting for h/w. InstanceID=1
-[2023.10.15-10.10.11:484][971]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 9 Seconds] waiting for h/w. InstanceID=18
-[2023.10.15-10.10.11:487][971]LogStats:                    SendNewReport -  9.470 s
-[2023.10.15-10.10.11:487][971]LogStats:             FDebug::EnsureFailed -  9.594 s
-[2023.10.15-10.10.11:487][971]LogWorld: UWorld::CleanupWorld for StartingLevel, bSessionEnded=true, bCleanupResources=true
-[2023.10.15-10.10.11:487][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2023.10.15-10.10.11:505][971]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2023.10.15-10.10.11:509][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2023.10.15-10.10.11:524][971]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
-[2023.10.15-10.10.11:525][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
-[2023.10.15-10.10.11:525][971]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17708
-[2023.10.15-10.10.11:551][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
-[2023.10.15-10.10.11:556][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
-[2023.10.15-10.10.11:569][971]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18760
-[2023.10.15-10.10.11:608][972]LogPlayLevel: Display: Destroying online subsystem :Context_57
-[2023.10.15-10.10.11:613][972]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{24d7b0fc-b393-4755-8cd6-607d1226b158}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=26.22
-[2023.10.15-10.10.11:613][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
-[2023.10.15-10.10.11:615][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
-[2023.10.15-10.10.18:278][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2023.10.15-10.10.18:357][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Levels/Level2" FILE="../../../../unreal engine projekts/SchoolProjectLevels/Content/MyContent/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2023.10.15-10.10.18:389][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
-[2023.10.15-10.10.18:414][455]LogSavePackage: Moving output files for package: /Game/MyContent/Levels/Level2
-[2023.10.15-10.10.18:415][455]LogSavePackage: Moving '../../../../unreal engine projekts/SchoolProjectLevels/Saved/Level2C9A56B6B41947927B3FAA69787FB7E55.tmp' to '../../../../unreal engine projekts/SchoolProjectLevels/Content/MyContent/Levels/Level2.umap'
-[2023.10.15-10.10.18:420][455]LogFileHelpers: Saving map 'Level2' took 0.063
-[2023.10.15-10.10.18:438][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 3.28 sec)
-[2023.10.15-10.10.18:440][455]AssetCheck: New page: Asset Save: Level2
-[2023.10.15-10.10.18:440][455]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyContent/Levels/Level2.Level2
