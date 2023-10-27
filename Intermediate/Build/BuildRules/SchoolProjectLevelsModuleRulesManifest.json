@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Epic games\\unreal engine projekts\\SchoolProjectLevels\\Source\\SchoolProjectLevels\\SchoolProjectLevels.Build.cs",
+		"D:\\Epic games\\unreal engine projekts\\SchoolProjectLevels\\Source\\SchoolProjectLevels.Target.cs",
+		"D:\\Epic games\\unreal engine projekts\\SchoolProjectLevels\\Source\\SchoolProjectLevelsEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

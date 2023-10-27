@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\epic games\\unreal engine projekts\\schoolprojectlevels\\intermediate\\build\\win64\\unrealeditor\\inc\\schoolprojectlevels\\uht\\schoolprojectlevels.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\epic games\\unreal engine projekts\\schoolprojectlevels\\intermediate\\build\\win64\\x64\\schoolprojectlevelseditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\epic games\\unreal engine projekts\\schoolprojectlevels\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\schoolprojectlevels\\definitions.schoolprojectlevels.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
