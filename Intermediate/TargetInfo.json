@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SchoolProjectLevels",
+			"Path": "..\\Source\\SchoolProjectLevels.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SchoolProjectLevelsEditor",
+			"Path": "..\\Source\\SchoolProjectLevelsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

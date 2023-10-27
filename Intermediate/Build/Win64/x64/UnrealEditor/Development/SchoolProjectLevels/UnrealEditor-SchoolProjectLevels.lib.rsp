@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SchoolProjectLevels.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic games\unreal engine projekts\SchoolProjectLevels\Intermediate\Build\Win64\x64\SchoolProjectLevelsEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\Epic games\unreal engine projekts\SchoolProjectLevels\Intermediate\Build\Win64\x64\UnrealEditor\Development\SchoolProjectLevels\MyActor.gen.cpp.obj"
+"D:\Epic games\unreal engine projekts\SchoolProjectLevels\Intermediate\Build\Win64\x64\UnrealEditor\Development\SchoolProjectLevels\SchoolProjectLevels.init.gen.cpp.obj"
+"D:\Epic games\unreal engine projekts\SchoolProjectLevels\Intermediate\Build\Win64\x64\UnrealEditor\Development\SchoolProjectLevels\SchoolProjectLevels.cpp.obj"
+"D:\Epic games\unreal engine projekts\SchoolProjectLevels\Intermediate\Build\Win64\x64\UnrealEditor\Development\SchoolProjectLevels\MyActor.cpp.obj"
+"D:\Epic games\unreal engine projekts\SchoolProjectLevels\Intermediate\Build\Win64\x64\UnrealEditor\Development\SchoolProjectLevels\Default.rc2.res"
+/OUT:"D:\Epic games\unreal engine projekts\SchoolProjectLevels\Intermediate\Build\Win64\x64\UnrealEditor\Development\SchoolProjectLevels\UnrealEditor-SchoolProjectLevels.lib"

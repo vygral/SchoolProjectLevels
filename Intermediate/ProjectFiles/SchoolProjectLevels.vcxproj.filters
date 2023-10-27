@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SchoolProjectLevels.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SchoolProjectLevels.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SchoolProjectLevelsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SchoolProjectLevels">
+      <UniqueIdentifier>{148E3162-0496-3D9D-844F-3490E31837E3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SchoolProjectLevels\SchoolProjectLevels.Build.cs">
+      <Filter>Source\SchoolProjectLevels</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SchoolProjectLevels\SchoolProjectLevels.cpp">
+      <Filter>Source\SchoolProjectLevels</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SchoolProjectLevels\SchoolProjectLevels.h">
+      <Filter>Source\SchoolProjectLevels</Filter>
+    </ClInclude>
+    <Filter Include="Source\SchoolProjectLevels\Private">
+      <UniqueIdentifier>{DB5D8DE5-1DFF-39D0-8F75-43D57682AAE4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SchoolProjectLevels\Private\MyActor.cpp">
+      <Filter>Source\SchoolProjectLevels\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SchoolProjectLevels\Public">
+      <UniqueIdentifier>{4E259062-DA3A-3445-BEC1-718C308517A8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SchoolProjectLevels\Public\MyActor.h">
+      <Filter>Source\SchoolProjectLevels\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
