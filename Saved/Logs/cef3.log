@@ -1,10 +1,2 @@
-[0308/121621.703:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Klíè není platný pro použití v zadaném stavu. (0x8009000B)
-[0308/121622.168:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0308/121622.251:WARNING:storage_block-inl.h(146)] Failed data load.
-[0308/121622.251:WARNING:storage_block-inl.h(146)] Failed data load.
-[0308/121622.251:WARNING:storage_block-inl.h(146)] Failed data load.
-[0308/121622.253:WARNING:storage_block-inl.h(146)] Failed data load.
-[0308/121622.253:ERROR:entry_impl.cc(998)] Failed to save user data
-[0308/121622.253:ERROR:entry_impl.cc(998)] Failed to save user data
-[0308/121623.985:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0308/121821.859:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0308/191323.424:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Klíè není platný pro použití v zadaném stavu. (0x8009000B)
+[0308/191523.801:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
