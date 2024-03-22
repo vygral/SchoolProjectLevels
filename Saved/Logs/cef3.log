@@ -1,2 +1,3 @@
-[0308/191323.424:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Klíè není platný pro použití v zadaném stavu. (0x8009000B)
-[0308/191523.801:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0322/105420.558:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Klíè není platný pro použití v zadaném stavu. (0x8009000B)
+[0322/105425.969:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0322/105620.708:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
